@@ -1,0 +1,36 @@
+body{
+	background-color: pink;
+}
+
+h1 {
+	color: purple;
+}
+
+h3 {
+	color: yellow;
+	font-size: 25pt;
+	font-weight: bold;
+ }
+
+p {
+  color: green;
+  font-family: arial narow;
+ }
+
+li {
+  color: brown;
+ }
+
+ .warnana {
+ 	color: red;
+ }       
+
+#gambar{
+	border-radius: 50rem;
+
+}
+
+.p2 {
+	color: #aaa
+}
+/**/
